@@ -1,0 +1,33 @@
+This is the sales dataset of a shop that selling goods to the multiple countries. This dataset have the information of the invoice, Stock Code, Product Description, Purchase Quantity, date of the invoice, Unit Price, Customer id and country.
+
+CEO
+
+1) what are the top 5 products by the total sales revenue?
+2) which countries generate the highest revenue?
+3) How the product level sales performed this year. How much it defers from last year?
+4) Which products are sold most frequently?
+
+CMO
+
+1) what are the top 10 products have the highest sales volume this year?
+2) Top customers by total purchase value.
+3) Which products have the lowest sales quantity?
+4) Which ten countries account for the highest number of orders?
+
+
+The actual questions need to be asked by the document.
+
+CEO
+
+1) Which region is generating the highest revenue, and which region is generating the lowest?
+2) What is the monthly trend of revenue, which months have faced the biggest increase/decrease?
+3) Which months generated the most revenue? Is there a seasonality in sales?
+4) Who are the top customers and how much do they contribute to the total revenue? Is the business dependent on these customers or is the customer base diversified?
+
+CMO
+
+1) What is the percentage of customers who are repeating their orders? Are they ordering the same products or different?
+2) For the repeat customers, how long does it take for them to place the next order after being delivered the previous one?
+3) What revenue is being generated from the customers who have ordered more than once?
+4) Who are the customers that have repeated the most? How much are they contributing to revenue?
+
